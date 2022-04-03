@@ -10,3 +10,7 @@ Original file is located at
 def hello(name):
   print('Hello ' + name + '!')
   return
+
+def hello2(name):
+  print('Hello2 ' + name + '!')
+  return
