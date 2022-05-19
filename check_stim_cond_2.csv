@@ -1,0 +1,38 @@
+subject,comment
+37_run2,Tempo do Async8 + tmax*10 deve ser menor que último sample
+15_run2,Falta eventos: {'controle8'}
+32_run2,"Falta eventos: {'Sync8', 'controle8', 'Sync7', 'Async8', 'controle7', 'Async7'}"
+35_run2,OK
+23_run2,OK
+33_run2,OK
+25_run2,OK
+2_run2,"Falta eventos: {'Sync8', 'controle8', 'Async8', 'controle7', 'Async7'}"
+38_run2,"Falta eventos: {'Sync8', 'controle8', 'Sync7', 'Async8', 'controle7', 'Async7'}"
+27_run2,OK
+8_run2,OK
+30_run2,OK
+39_run2,"Falta eventos: {'Async6', 'Async8', 'Async3', 'Async2', 'Async1', 'Async5', 'Async4', 'Async7'}"
+16_run2,OK
+36_run2,OK
+26_run2,OK
+21_run2,OK
+12_run2,OK
+11_run2,OK
+3_run2,OK
+28_run2,OK
+5_run2,OK
+19_run2,OK
+1_run2,"Falta eventos: {'Sync3', 'Sync8', 'Sync2', 'controle8', 'Sync4', 'Async3', 'Async1', 'Sync6', 'controle5', 'Sync1', 'controle2', 'Async7', 'Async6', 'Async8', 'controle6', 'Sync5', 'Async2', 'Async5', 'controle1', 'controle4', 'controle7', 'Async4', 'controle3', 'Sync7'}"
+13_run2,OK
+22_run2,OK
+29_run2,OK
+31_run2,OK
+4_run2,OK
+10_run2,"Falta eventos: {'Async6', 'Async8', 'Async3', 'Async2', 'Async5', 'Async4', 'Async7'}"
+9_run2,Tempo do Async8 + tmax*10 deve ser menor que último sample
+24_run2,"Falta eventos: {'Sync8', 'controle8', 'Sync7', 'Async8', 'controle7', 'Async7'}"
+14_run2,Tempo do Async8 + tmax*10 deve ser menor que último sample
+34_run2,Tempo do Async8 + tmax*10 deve ser menor que último sample
+17_run2,OK
+18_run2,OK
+6_run2,OK

@@ -1,0 +1,36 @@
+subject,comment
+18_run1,OK
+3_run1,OK
+11_run1,"Falta eventos: {'Async6', 'Async5', 'Async7', 'Async3', 'Async4', 'Async8', 'Async2'}"
+20_run1,OK
+9_run1,OK
+24_run1,OK
+12_run1,OK
+39_run1,OK
+17_run1,OK
+37_run1,OK
+30_run1,OK
+36_run1,OK
+33_run1,OK
+1_run1,"Falta eventos: {'controle3', 'Sync3', 'controle7', 'controle1', 'controle5', 'Async4', 'controle4', 'Async2', 'Sync8', 'Sync2', 'Async1', 'Async6', 'Sync4', 'Sync7', 'Async7', 'Async5', 'Sync6', 'controle6', 'controle8', 'Async3', 'Async8', 'controle2', 'Sync5', 'Sync1'}"
+13_run1,OK
+23_run1,OK
+27_run1,OK
+14_run1,OK
+34_run1,OK
+16_run1,OK
+29_run1,OK
+15_run1,OK
+2_run1,OK
+38_run1,OK
+26_run1,OK
+5_run1,OK
+10_run1,OK
+31_run1,OK
+6_run1,OK
+7_run1,Tempo do Async8 + tmax*10 deve ser menor que último sample
+32_run1,OK
+22_run1,OK
+19_run1,OK
+21_run1,"Falta eventos: {'Async1', 'Async6', 'Async5', 'Async7', 'Async3', 'Async4', 'Async8', 'Async2'}"
+25_run1,OK
